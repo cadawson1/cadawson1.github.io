@@ -15,8 +15,13 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+This is a paragraph 
+
 - Bulleted
 - List
+
+* this is 1
+* this is 2
 
 1. Numbered
 2. List
