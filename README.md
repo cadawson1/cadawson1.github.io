@@ -28,6 +28,19 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+#### This is a Heading
+* this is 1
+* this is 2
+
+1. Numbered 
+2. List 
+
+| Tables | Are | Cool|
+| ------ | --- | ----|
+| ------ | ---| -----| 
+
+[I'm an inline-style link](https://www.google.com)
+
 
 **Bold** and _Italic_ and `Code` text
 
