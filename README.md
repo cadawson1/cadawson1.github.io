@@ -5,34 +5,29 @@ You can use the [editor on GitHub](https://github.com/cadawson1/gh-pages/edit/ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+#### This is a Heading
+* this is 1
+* this is 2
+
+1. Numbered 
+2. List 
+
+| Tables | Are | Cool|
+| ------ | --- | ----|
+| ------ | ---| -----| 
+
+[I'm an inline-style link](https://www.google.com)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# H1
-## Header 2
-### Header 3
 
-Alt-H1
-======
-
-This is a paragraph 
 
 - Bulleted
 - List
 
-* this is 1
-* this is 2
-
-1. Numbered
-2. List
-
-| Tables | Are | Cool|
-| ------ | --- | ----|
-
-[I'm an inline-style link](https://www.google.com)
 
 **Bold** and _Italic_ and `Code` text
 
