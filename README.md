@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# H1
 ## Header 2
 ### Header 3
+
+Alt-H1
+======
 
 This is a paragraph 
 
@@ -25,6 +28,11 @@ This is a paragraph
 
 1. Numbered
 2. List
+
+| Tables | Are | Cool|
+| ------ | --- | ----|
+
+[I'm an inline-style link](https://www.google.com)
 
 **Bold** and _Italic_ and `Code` text
 
